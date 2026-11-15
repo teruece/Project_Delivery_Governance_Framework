@@ -6,6 +6,10 @@ The purpose of this portfolio is to show how I approach structured delivery, dat
 
 The materials are sample and anonymised versions of frameworks, templates and documentation I have used or developed in previous roles. They are designed to show my working style, documentation discipline and ability to work across business, technical, data, analytics, governance and delivery teams.
 
+## Project delivery case study
+
+[Stock movement reporting rollout](project-delivery/README.md) shows how I take a BI request from scope and requirements through delivery gates, UAT, release and handover. The case uses fictional sites and figures, with reusable requirements, RACI, RAID, change control, acceptance, release and stakeholder documents.
+
 Documents Included
 1. [Governance Cadence and Stakeholder Reporting Framework](Governance%20Cadence%20and%20Stakeholder%20Reporting%20Framework.pdf)
 
