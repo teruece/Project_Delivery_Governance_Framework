@@ -7,27 +7,27 @@ The purpose of this portfolio is to show how I approach structured delivery, dat
 The materials are sample and anonymised versions of frameworks, templates and documentation I have used or developed in previous roles. They are designed to show my working style, documentation discipline and ability to work across business, technical, data, analytics, governance and delivery teams.
 
 Documents Included
-1. Governance Cadence and Stakeholder Reporting Framework
+1. [Governance Cadence and Stakeholder Reporting Framework](Governance%20Cadence%20and%20Stakeholder%20Reporting%20Framework.pdf)
 
 A framework outlining how governance meetings, reporting cycles, stakeholder updates, action tracking and escalation routines can be structured to improve delivery visibility, ownership and accountability.
 
-2. KPI Dictionary and Metric Definitions
+2. [KPI Dictionary and Metric Definitions](KPI%20Dictionary%20Metric%20Definitions.pdf)
 
 A detailed KPI and metric definition document covering data analytics and operational performance measures, including ownership, calculation logic, reporting frequency, data sources, business rules and data quality considerations.
 
-3. Power BI Dashboard Requirements
+3. [Power BI Dashboard Requirements](PowerBI%20Dashboard%20Requirements.pdf)
 
 A dashboard requirements document showing how business reporting needs can be translated into clear Power BI requirements, including dashboard objectives, user groups, data sources, KPIs, filters, visuals, security considerations and acceptance criteria.
 
-4. Process Mapping and Optimisation
+4. [Process Mapping and Optimisation](Process%20Mapping%20and%20Optimisation.pdf)
 
 A process documentation and improvement artefact covering current-state mapping, pain points, root causes, future-state design, improvement actions, ownership and implementation planning.
 
-5. RAID and Dependency Management Framework
+5. [RAID and Dependency Management Framework](RAID%20and%20Dependency%20Management%20Framework.pdf)
 
 A governance framework for managing risks, assumptions, issues, dependencies, decisions and actions across data, operations, technical and transformation environments.
 
-6. Power BI CI/CD Version Control Framework
+6. [Power BI CI/CD Version Control Framework](Power%20BI%20CICD%20Version%20Control%20Framework.pdf)
 
 A Power BI delivery control framework covering version control, development-to-production release flow, workspace management, deployment governance, change tracking, rollback planning, approval checkpoints and documentation standards for controlled BI delivery.
 
